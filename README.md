@@ -1,5 +1,9 @@
 # ISHOP-U-Instances
-Random uniform instances for the ISHOP-U. Instance format:
+Random uniform instances for the ISHOP-U.
+
+The instances use the following format:
+
+
 #Begin of file\
 ProductNumber QuantityToBuy\
 1             2\
