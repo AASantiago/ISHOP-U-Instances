@@ -3,23 +3,4 @@ Ornelas, F.; Santiago, A.; Martínez, S.I.; Ponce-Flores, M.P.; Terán-Villanuev
 
 Random uniform instances for the ISHOP-U.
 
-The instances use the following format:
-
-
-#Begin of file\
-ProductNumber, QuantityToBuy\
-1,             2\
-2,             1\
-.,             .\
-.,             .\
-.,             .\
-n,             1\
-#break blank line\
-ProductNumber, StoreNumber, AvailableUnits, ProductPrice, DeliveryPrice\
-1,             25,          10,             50,           10\
-.,             .,           .,              .,            .\
-.,             .,           .,              .,            .\
-.,             .,           .,              .,            .\
-.,             .,           .,              .,            .\
-.,             .,           .,              .,            .\
-#End of file
+New format of the instances (2 July 2023).
